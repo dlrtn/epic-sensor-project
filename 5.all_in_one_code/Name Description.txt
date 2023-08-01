@@ -1,0 +1,16 @@
+Mo = Motion
+Sig = Signal
+sam = sample
+coll = collection
+De = Detection
+Ext = Extraction
+Norm = Normalization
+Ana = Analysis
+Dist = Distinguishing
+ini  = Initial
+Th = Threshold
+Sam = Sample
+
+Motion Signal Frame Extraction
+signal Analysis
+signal Nomalization
